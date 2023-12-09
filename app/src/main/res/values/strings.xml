@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationPractica</string>
+    <string name="button">Button</string>
+    <string name="username">UserName</string>
+    <string name="name">Name</string>
+    <string name="family">Family</string>
+    <string name="print_name">Ведите имя</string>
+    <string name="print_family">Ведите фамилие</string>
+</resources>
